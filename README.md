@@ -10,3 +10,8 @@ Scripts to download &amp; merge video clips from [meteo.physic.ut.ee archive](ht
 The first and second steps may take quite a while (2-8 hours), but the third one should be fast (under a minute).  I usually run 2-4 instances of the second step at a time, but the effectiveness of this may depend on your CPU.
 
 Please be kind to the meteo.physic.ut.ee servers.
+
+## Merged Clips
+
+- [Tartu in 2019](https://www.youtube.com/watch?v=q_ZRND_3uQY)
+- [Tartu in 2020](https://www.youtube.com/watch?v=9cNdEs1fOOQ)
