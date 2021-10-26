@@ -15,5 +15,6 @@ Please be kind to the meteo.physic.ut.ee servers.
 
 ## Merged Clips
 
+- [Tartu in 2018](https://www.youtube.com/watch?v=i3sxpB2TqvA)
 - [Tartu in 2019](https://www.youtube.com/watch?v=q_ZRND_3uQY)
 - [Tartu in 2020](https://www.youtube.com/watch?v=9cNdEs1fOOQ)
