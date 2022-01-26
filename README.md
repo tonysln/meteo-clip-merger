@@ -1,5 +1,5 @@
 # Meteo Clip Merger
-Scripts to download &amp; merge video clips from [meteo.physic.ut.ee archive](https://meteo.physic.ut.ee/webcam/uus/archive/). 
+SLast login: Tue Jan 25 23:37:31 on ttys002cripts to download &amp; merge video clips from [meteo.physic.ut.ee archive](https://meteo.physic.ut.ee/webcam/uus/archive/). 
 
 Using bash, wget and FFmpeg utilities.
 
@@ -15,6 +15,7 @@ Please be kind to the meteo.physic.ut.ee servers.
 
 ## Merged Clips
 
-- [Tartu in 2018](https://www.youtube.com/watch?v=i3sxpB2TqvA)
-- [Tartu in 2019](https://www.youtube.com/watch?v=q_ZRND_3uQY)
+- [Tartu in 2021](https://www.youtube.com/watch?v=XiWUUGcrCzs)
 - [Tartu in 2020](https://www.youtube.com/watch?v=9cNdEs1fOOQ)
+- [Tartu in 2019](https://www.youtube.com/watch?v=q_ZRND_3uQY)
+- [Tartu in 2018](https://www.youtube.com/watch?v=i3sxpB2TqvA)
