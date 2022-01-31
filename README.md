@@ -1,5 +1,5 @@
 # Meteo Clip Merger
-SLast login: Tue Jan 25 23:37:31 on ttys002cripts to download &amp; merge video clips from [meteo.physic.ut.ee archive](https://meteo.physic.ut.ee/webcam/uus/archive/). 
+Scripts to download &amp; merge video clips from [meteo.physic.ut.ee archive](https://meteo.physic.ut.ee/webcam/uus/archive/). 
 
 Using bash, wget and FFmpeg utilities.
 
